@@ -1,2 +1,2 @@
 # Project
-Firct project
+First project
